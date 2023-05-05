@@ -11,6 +11,10 @@ h1 {
 ul.a {
    list-style-type: square;
 }
+table, th, td{
+   border:1px solid;
+}
+
 
 #myDiv{
   background-color: white;
