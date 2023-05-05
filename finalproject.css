@@ -1,5 +1,7 @@
 body {
-    background-color: gold;
+   background:
+       linear-gradient(to right, blue, transparent),
+       url(https://grainy-gradients.vercel.app/noise.svg);  
 }
   
 h1 {
@@ -8,7 +10,10 @@ h1 {
 }
 
 #myDiv{
-  background-color: grey;
-  border-style: dotted;
-  border-color: blue;
+  background-color: white;
+  border-style: inset;
+  border-width:medium;
+  border-color: red;
+    
+   
 }
