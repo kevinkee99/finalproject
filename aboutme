@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="finalproject.css">
+</head>
+
+<body>
+<h1>About Me</h1>
+div id="myDiv">
+<p>
+Name: Kevin Lee<br>
+Age: 22<br>
+Current Education: University of Missouri, Columbia, Information Technology Bachelors and Accounting Minor.<br>
+Nationality: South Korea<br>
+Hobby: Video game, music(favorite artist at the moment is <a href="https://www.youtube.com/@porterrobinson"Porter Robinson</a>), piano, and skating<br>
+Pet(s): Winnie (Pitbull & Chihuahua mix) and Willow (Domestic Shorthair)<br>
+</p>
+</div>
+</body>
+
+</html>
+
+
