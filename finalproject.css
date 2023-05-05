@@ -19,7 +19,8 @@ td {
 }
 tr:hover {background-color: lightblue;}
 table {
-   width:75%
+   width:75%;
+   height:25%;
 }
 
 
