@@ -13,6 +13,7 @@ p {
 }
 ul.a {
    list-style-type: square;
+   line-height: 2.0;
 }
 table, th, td{
    border:1px solid;
