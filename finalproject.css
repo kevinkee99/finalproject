@@ -8,6 +8,9 @@ h1 {
   color: white;
   margin-left: 20px;
 }
+ul.a {
+   list-style-type: square;
+}
 
 #myDiv{
   background-color: white;
