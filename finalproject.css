@@ -1,9 +1,9 @@
 #grad {
-   background-image: linear-gradient(to right, blue, pink, purple);
+   background-image: linear-gradient(to right, blue, purple);
 }
   
 h1 {
-  color: white;
+  color: black;
   margin-left: 20px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
